@@ -56,7 +56,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/suraj_virus) 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/PushpenderIndia/PushpenderIndia?style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
+[![Visits Badge](https://badges.pufler.dev/visits/PushpenderIndia/PushpenderIndia?style=for-the-badge)](https://github.comsurajvirus3/surajvirus)
 
 </p>
 
@@ -70,8 +70,8 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
+  <img src = "https://github-readme-stats.vercel.app/api?username=surajvirus3&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=surajvirus3&hide=css,shell">
 </p>
 
 </details>
